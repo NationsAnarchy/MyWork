@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "h3M7pUU1FraAQZgbvIx8caw2Wrm9yzuMkZXbRe8s8SpdiliTdIRvYVXc2SnRlqQ9kiNSjQoj7mu1ADzJrqKgbg==",
+  "dgSpecHash": "m5J3YzxUtDezfiT4qN8+PqppzNz1OhvdTu3fyXM+nK8y87sLlZ9it8nuoV2JrSYaUd5FtK2IVWwDgekaQALOZA==",
   "success": true,
   "projectFilePath": "D:\\Work with Languages\\MyWork\\NET Core Project\\MyConsoleApp\\MyConsoleApp\\MyConsoleApp.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
