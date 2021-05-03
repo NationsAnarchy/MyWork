@@ -33,7 +33,7 @@ namespace MyConsoleApp
 
         private static int FindCenturyFromYear(int year)
         {
-            return --year / 100 + 1;
+            return (year - 1) / 100 + 1;
         }
 
         private static double SquareExpand(int square)
