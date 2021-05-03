@@ -1,5 +1,4 @@
 ﻿using System;
-
 namespace MyConsoleApp
 {
     public static class Program
@@ -9,21 +8,17 @@ namespace MyConsoleApp
             Console.Write("Please type in a year: ");
             int year = int.Parse(Console.ReadLine());
             Console.WriteLine("The century is: " + FindCenturyFromYear(year));
-
             Console.WriteLine("Hello World!");
-
             Console.WriteLine();
             Console.Write("Nhập vào số a: ");
             var a = decimal.Parse(Console.ReadLine() ?? string.Empty);
             Console.Write("Nhập vào số b: ");
             var b = decimal.Parse(Console.ReadLine() ?? string.Empty);
-
             var tong = a + b;
             var hieu = a - b;
             var tich = a * b;
             var thuong = a / b;
             var du = a % b;
-
             Console.WriteLine($"Phép cộng a và b là: {tong}");
             Console.WriteLine($"Phép trừ a và b là: {hieu}");
             Console.WriteLine($"Phép nhân a và b là: {tich}");
