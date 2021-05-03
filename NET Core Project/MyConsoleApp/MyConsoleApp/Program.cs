@@ -31,6 +31,11 @@ namespace MyConsoleApp
             Console.WriteLine($"Phép lấy dư a và b là: {du}");
         }
 
+        /// <summary>
+        /// Hàm tính ra thế kỉ theo năm nhập vào trước
+        /// </summary>
+        /// <param name="year">Năm nhập vào dạng số</param>
+        /// <returns>Trả lại thế kỉ</returns>
         private static int FindCenturyFromYear(int year) => (year - 1) / 100 + 1;
 
         private static double SquareExpand(int square)
