@@ -31,10 +31,7 @@ namespace MyConsoleApp
             Console.WriteLine($"Phép lấy dư a và b là: {du}");
         }
 
-        private static int FindCenturyFromYear(int year)
-        {
-            return (year - 1) / 100 + 1;
-        }
+        private static int FindCenturyFromYear(int year) => (year - 1) / 100 + 1;
 
         private static double SquareExpand(int square)
         {
