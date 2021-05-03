@@ -1,0 +1,13 @@
+D:\Work with Languages\MyWork\NET Core Project\MyConsoleApp\MyConsoleApp\bin\Debug\netcoreapp3.1\MyConsoleApp.exe
+D:\Work with Languages\MyWork\NET Core Project\MyConsoleApp\MyConsoleApp\bin\Debug\netcoreapp3.1\MyConsoleApp.deps.json
+D:\Work with Languages\MyWork\NET Core Project\MyConsoleApp\MyConsoleApp\bin\Debug\netcoreapp3.1\MyConsoleApp.runtimeconfig.json
+D:\Work with Languages\MyWork\NET Core Project\MyConsoleApp\MyConsoleApp\bin\Debug\netcoreapp3.1\MyConsoleApp.runtimeconfig.dev.json
+D:\Work with Languages\MyWork\NET Core Project\MyConsoleApp\MyConsoleApp\bin\Debug\netcoreapp3.1\MyConsoleApp.dll
+D:\Work with Languages\MyWork\NET Core Project\MyConsoleApp\MyConsoleApp\bin\Debug\netcoreapp3.1\MyConsoleApp.pdb
+D:\Work with Languages\MyWork\NET Core Project\MyConsoleApp\MyConsoleApp\obj\Debug\netcoreapp3.1\MyConsoleApp.csprojAssemblyReference.cache
+D:\Work with Languages\MyWork\NET Core Project\MyConsoleApp\MyConsoleApp\obj\Debug\netcoreapp3.1\MyConsoleApp.AssemblyInfoInputs.cache
+D:\Work with Languages\MyWork\NET Core Project\MyConsoleApp\MyConsoleApp\obj\Debug\netcoreapp3.1\MyConsoleApp.AssemblyInfo.cs
+D:\Work with Languages\MyWork\NET Core Project\MyConsoleApp\MyConsoleApp\obj\Debug\netcoreapp3.1\MyConsoleApp.csproj.CoreCompileInputs.cache
+D:\Work with Languages\MyWork\NET Core Project\MyConsoleApp\MyConsoleApp\obj\Debug\netcoreapp3.1\MyConsoleApp.dll
+D:\Work with Languages\MyWork\NET Core Project\MyConsoleApp\MyConsoleApp\obj\Debug\netcoreapp3.1\MyConsoleApp.pdb
+D:\Work with Languages\MyWork\NET Core Project\MyConsoleApp\MyConsoleApp\obj\Debug\netcoreapp3.1\MyConsoleApp.genruntimeconfig.cache

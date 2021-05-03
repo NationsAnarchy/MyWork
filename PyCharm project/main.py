@@ -20,10 +20,10 @@ print("Phép tính luỹ thừa có kết quả là:", x ** y)
 
 # Vòng lặp và điều kiện
 
-# i = int(input("Nhập vào số i: "))
-# while i < 10:
-#     print('I love you')
-#     i += 1
+i = int(input("Nhập vào số i: "))
+while i < 10:
+    print('I love you')
+    i += 1
 
 # Thuật toán sắp xếp nổi bọt (bubble sort)
 
@@ -33,11 +33,11 @@ print(testList)
 
 for i in range(0, len(testList) - 1):
     for j in range(0, len(testList) - 1 - i):
-        testList[j], testList[j+1] = testList[j+1], testList[j]
+        testList[j], testList[j + 1] = testList[j + 1], testList[j]
         if testList[j] > testList[j + 1]:
             temp = testList[j]
-            testList[j] = testList[j+1]
-            testList[j+1] = temp
+            testList[j] = testList[j + 1]
+            testList[j + 1] = temp
 
 print("Mảng sau khi sắp xếp:")
 print(testList)
