@@ -24,6 +24,8 @@ namespace MyConsoleApp
             Console.WriteLine($"Phép nhân a và b là: {tich}");
             Console.WriteLine($"Phép chia a và b là: {decimal.Round(thuong, 2)}");
             Console.WriteLine($"Phép lấy dư a và b là: {du}");
+            Console.WriteLine(SquareExpand(5));
+            Console.WriteLine(NumberCompare(6,5));
         }
 
         /// <summary>
@@ -38,5 +40,7 @@ namespace MyConsoleApp
             if (square < 2) return 0;
             return Math.Pow(square, 2) + Math.Pow((square - 1), 2);
         }
+
+        private static bool NumberCompare(int a, int b) => a <= b;
     }
 }
