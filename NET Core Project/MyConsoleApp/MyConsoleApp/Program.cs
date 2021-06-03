@@ -10,7 +10,8 @@ namespace MyConsoleApp
             Console.WriteLine("The century is: " + FindCenturyFromYear(year));
             Console.WriteLine("Hello World!");
             Console.WriteLine();
-            Console.WriteLine($"");            
+            Console.WriteLine();
+            Console.WriteLine($"");
             Console.Write("Nhập vào số a: ");
             var a = decimal.Parse(Console.ReadLine() ?? string.Empty);
             Console.Write("Nhập vào số b: ");
@@ -26,7 +27,7 @@ namespace MyConsoleApp
             Console.WriteLine($"Phép chia a và b là: {decimal.Round(thuong, 2)}");
             Console.WriteLine($"Phép lấy dư a và b là: {du}");
             Console.WriteLine(SquareExpand(5));
-            Console.WriteLine(NumberCompare(6,5));
+            Console.WriteLine(NumberCompare(6, 5));
         }
 
         /// <summary>
