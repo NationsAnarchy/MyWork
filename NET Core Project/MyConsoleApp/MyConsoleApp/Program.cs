@@ -10,6 +10,7 @@ namespace MyConsoleApp
             Console.WriteLine("The century is: " + FindCenturyFromYear(year));
             Console.WriteLine("Hello World!");
             Console.WriteLine();
+            Console.WriteLine($"");            
             Console.Write("Nhập vào số a: ");
             var a = decimal.Parse(Console.ReadLine() ?? string.Empty);
             Console.Write("Nhập vào số b: ");
