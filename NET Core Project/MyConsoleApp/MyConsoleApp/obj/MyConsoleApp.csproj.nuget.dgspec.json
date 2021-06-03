@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Work with Languages\\MyWork\\NET Core Project\\MyConsoleApp\\MyConsoleApp\\MyConsoleApp.csproj": {}
+    "d:\\For fun\\Forfun\\NET Core Project\\MyConsoleApp\\MyConsoleApp\\MyConsoleApp.csproj": {}
   },
   "projects": {
-    "D:\\Work with Languages\\MyWork\\NET Core Project\\MyConsoleApp\\MyConsoleApp\\MyConsoleApp.csproj": {
+    "d:\\For fun\\Forfun\\NET Core Project\\MyConsoleApp\\MyConsoleApp\\MyConsoleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Work with Languages\\MyWork\\NET Core Project\\MyConsoleApp\\MyConsoleApp\\MyConsoleApp.csproj",
+        "projectUniqueName": "d:\\For fun\\Forfun\\NET Core Project\\MyConsoleApp\\MyConsoleApp\\MyConsoleApp.csproj",
         "projectName": "MyConsoleApp",
-        "projectPath": "D:\\Work with Languages\\MyWork\\NET Core Project\\MyConsoleApp\\MyConsoleApp\\MyConsoleApp.csproj",
-        "packagesPath": "C:\\Users\\Incarnation\\.nuget\\packages\\",
-        "outputPath": "D:\\Work with Languages\\MyWork\\NET Core Project\\MyConsoleApp\\MyConsoleApp\\obj\\",
+        "projectPath": "d:\\For fun\\Forfun\\NET Core Project\\MyConsoleApp\\MyConsoleApp\\MyConsoleApp.csproj",
+        "packagesPath": "C:\\Users\\ntphuc1\\.nuget\\packages\\",
+        "outputPath": "d:\\For fun\\Forfun\\NET Core Project\\MyConsoleApp\\MyConsoleApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Incarnation\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ntphuc1\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }
