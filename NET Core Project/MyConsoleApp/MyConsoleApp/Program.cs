@@ -34,7 +34,11 @@ namespace MyConsoleApp
         /// <param name="year">Năm nhập vào dạng số</param>
         /// <returns>Trả lại thế kỉ</returns>
         private static int FindCenturyFromYear(int year) => (year - 1) / 100 + 1;
-
+        /// <summary>
+        /// Hàm tính hình vuông mở rộng
+        /// </summary>
+        /// <param name="square">Số hình vuông nhập vào tính toán</param>
+        /// <returns>Số hình vuông mở rộng ra</returns>
         private static double SquareExpand(int square)
         {
             if (square < 2) return 0;
